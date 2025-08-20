@@ -9,7 +9,7 @@ from sql import load_data
 from document import create_doc
 
 
-BOT_TOKEN = '8252550919:AAEiIn_d8JiAcfS_478erwoBjnkVorBWnyg'
+BOT_TOKEN = 'your_bot_tocken'
 YEAR, REGION, TYPE = range(3)
 
 
